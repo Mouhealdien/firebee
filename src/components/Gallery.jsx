@@ -1,7 +1,7 @@
 import ImageGallery from "react-image-gallery";
 import { useState } from "react";
 import "react-image-gallery/styles/css/image-gallery.css";
-import c1 from "../assets/Carousel/c1.png";
+import c1 from "../assets/Carousel/c1.jpg";
 import c2 from "../assets/Carousel/c2.jpg";
 import c3 from "../assets/Carousel/c3.jpg";
 import c4 from "../assets/Carousel/c4.jpg";
